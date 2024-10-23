@@ -1,1 +1,5 @@
-This is for learn branching strategy 
+This is for learn branching strategy
+
+
+
+Use [this](https://tilburgsciencehub.com/topics/automation/version-control/advanced-git/git-branching-strategies/) to read branchig flow to read branchig flow.. 
